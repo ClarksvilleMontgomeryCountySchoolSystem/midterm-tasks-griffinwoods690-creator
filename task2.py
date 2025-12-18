@@ -4,7 +4,7 @@ allowance += lawn
 allowance -= candy
 
 # Week 2: Bonus week and purchase
-allowance *= trash
+allowance *= 3
 allowance += vacuum
 allowance -= toy
 
